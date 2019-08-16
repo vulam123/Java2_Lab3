@@ -1,0 +1,3 @@
+NhanVien [manv=123, hoten=abc, tuoi=20, luong=2000.0]
+NhanVien [manv=456, hoten=def, tuoi=30, luong=3000.0]
+NhanVien [manv=789, hoten=ghi, tuoi=40, luong=4000.0]
